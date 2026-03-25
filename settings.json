@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ForFunTimepass.aternos.me:43296",
+    "ip": "ForFunTimepass.aternos.me",
     "port": 43296,
     "version": "",
     "try-creative": false
